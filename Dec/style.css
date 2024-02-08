@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: auto;
+}
+.contenedor{
+    background-color: rgb(192, 126, 226);
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    padding: 15%;
+}
+
+button{
+    font-size: xx-large;
+    padding: 0.5em;
+}
+
+#yesBtn{
+    transform: translate(-100%,0);
+}
+
+#noBtn{
+    position: absolute;
+}
